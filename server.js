@@ -14,8 +14,8 @@ client.on('ready', () => {
     client.user.setPresence({
         game: {
             name: 'with depression',
-            type: "STREAMING",
-            url: "https://twitch.tv/scribblehounts"
+            type: "PLAYING",
+            url: "https://discord.gg/Cu3hcVj8fD"
         }
     });
 });
