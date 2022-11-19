@@ -62,7 +62,7 @@ client.on("message", async message => {
 
  client.on("guildMemberAdd", (member) => {
 
-    let channel = client.channels.get('627712783957491712');
+    let channel = client.channels.get('1042551676793532437');
 
     const embed = new Discord.RichEmbed()
     .setColor("#2ecc71")
